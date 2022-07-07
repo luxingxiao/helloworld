@@ -63,13 +63,15 @@ int main (int argc, char ** argv)
       printf ("=== [Subscriber] Received : ");
       printf ("Message (%"PRId32", %s)\n", msg->userID, msg->message);
       fflush (stdout);
-      break;
+      // break;
     }
     else
     {
       /* Polling sleep. */
-      dds_sleepfor (DDS_MSECS (20));
+      dds_sleepfor (DDS_SECS (2));
     }
+
+    dds_sleepfor (DDS_SECS (2));
   }
 
   /* Free the data location. */
