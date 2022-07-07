@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "helloword",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloWorldData_lib_generate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloWorldData_lib_generate-Debug-6b26c02a7a96c990daa8.json",
+					"name" : "HelloWorldData_lib_generate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloworldPublisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloworldPublisher-Debug-a67166c130e39e828f69.json",
+					"name" : "HelloworldPublisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloworldSubscriber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloworldSubscriber-Debug-7ae1c49ed4247e91f550.json",
+					"name" : "HelloworldSubscriber",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/d/workspace/dds-dist/share/CycloneDDS/examples/helloworld/build",
+		"source" : "/mnt/d/workspace/dds-dist/share/CycloneDDS/examples/helloworld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

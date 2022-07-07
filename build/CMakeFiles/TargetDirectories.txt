@@ -1,0 +1,5 @@
+/mnt/d/workspace/dds-dist/share/CycloneDDS/examples/helloworld/build/CMakeFiles/HelloWorldData_lib_generate.dir
+/mnt/d/workspace/dds-dist/share/CycloneDDS/examples/helloworld/build/CMakeFiles/HelloworldPublisher.dir
+/mnt/d/workspace/dds-dist/share/CycloneDDS/examples/helloworld/build/CMakeFiles/HelloworldSubscriber.dir
+/mnt/d/workspace/dds-dist/share/CycloneDDS/examples/helloworld/build/CMakeFiles/edit_cache.dir
+/mnt/d/workspace/dds-dist/share/CycloneDDS/examples/helloworld/build/CMakeFiles/rebuild_cache.dir
