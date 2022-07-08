@@ -50,7 +50,7 @@ int main(int argc, char **argv)
 
   /* Create a message to write. */
   msg.userID = 1;
-  msg.message = "Hello World";
+  msg.message = "Hello World! I am DDS.";
 
   printf("=== [Publisher]  Writing : ");
   printf("Message (%" PRId32 ", %s)\n", msg.userID, msg.message);
