@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-2357424f2d3ac200e9c1eb1bb7ac1fae CMakeFiles/HelloWorldData_lib_generate
-d098db5f5ed4a6645c356d086998ddfd HelloWorldData.c
